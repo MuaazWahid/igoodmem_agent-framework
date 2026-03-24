@@ -1,4 +1,4 @@
-<img src="https://goodmem.ai/assets/goodmem-g-blue-VvWv6-me.png" alt="GoodMem Logo" width="75">&nbsp;&nbsp;&nbsp;X&nbsp;&nbsp;&nbsp;<img src="docs/assets/Agentic-framework_high-res.png" alt="GoodMem Logo" width="95">
+<img src="https://goodmem.ai/assets/goodmem-g-blue-VvWv6-me.png" alt="GoodMem Logo" width="75">&nbsp;&nbsp;&nbsp;X<img src="docs/assets/Agentic-framework_high-res.png" alt="GoodMem Logo" width="95">
 
 [![PyPI](https://img.shields.io/pypi/v/agent-framework)](https://pypi.org/project/agent-framework/)
 [![NuGet](https://img.shields.io/nuget/v/Microsoft.Agents.AI)](https://www.nuget.org/profiles/MicrosoftAgentFramework/)
